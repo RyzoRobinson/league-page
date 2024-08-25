@@ -8,7 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>A league brought around by a fellowship with a love of two things: Football and the unmistakable taste of a Sterling FreshBurst Cigarette.</p>
- 
 `;
 
 /*   STEP 3   */
