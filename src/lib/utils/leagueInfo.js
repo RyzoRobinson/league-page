@@ -217,7 +217,8 @@ export const managers = [
        "tradingScale": 5, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
-     { "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+     { 
+       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Paul O'Neill",
        "tookOver": 2010, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Glorious Clonoe/Stranmillis", // (optional)
