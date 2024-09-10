@@ -196,6 +196,7 @@ export const managers = [
        "tradingScale": 5, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
+	{
 	"roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Rory O’Boyle",
        "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -217,6 +218,7 @@ export const managers = [
        "tradingScale": 5, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
+	{
 	"roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Paul O'Neill",
        "tookOver": 2010, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -238,7 +240,8 @@ export const managers = [
        "tradingScale": 5, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
-	        "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+	{
+	"roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Brian Morgan",
        "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Clonoe/Belfast", // (optional)
@@ -260,7 +263,8 @@ export const managers = [
        "tradingScale": 5, // 1 - 10
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
-	        "roster": 14,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+	{
+	"roster": 14,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Francis",
        "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "London", // (optional)
