@@ -244,8 +244,7 @@ export const managers = [
        "name": "Brian Morgan",
        "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Clonoe/Belfast", // (optional)
-       "bio": "Bine enthusiast 🚬 Full time hater 🥹 Enjoyer of all things Sicko. 😎
-"Never wrong, just early" - 🐈",
+       "bio": "Bine enthusiast 🚬 Full time hater 🥹 Enjoyer of all things Sicko. 😎 "Never wrong, just early" - 🐈",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "bal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
