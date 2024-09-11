@@ -47,7 +47,7 @@ export const managers = [
        "name": "Sean O'Hagan",
        "tookOver": 2018, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Coalisland", // (optional)
-       "bio": "Hates Birds",
+       "bio": "Being a panthers fan has ruined my life. I'm 31 years old!",
        "photo": "/managers/sean.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "car", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
