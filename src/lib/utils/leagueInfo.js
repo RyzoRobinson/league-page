@@ -133,8 +133,12 @@ export const managers = [
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Conall Kelly",
        "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Kilress", // (optional)
-       "bio": "6'3 and Gifted",
+       "location": "Kildress", // (optional)
+       "bio": "The Triumph and the Tragedy, minus the triumph. 
+Conall hasn’t exactly had the best of experiences in fantasy to date. In 4 seasons he has never had a winning record, and has flirted with the tattoo forfeit ever since its inception. 
+Entering season 5 Conall hopes for a change of fortunes, but suspects the stink of losing can be a hard one to get rid of. 
+With a penchant for outlandish trade offers and complaining about misfortunes, Conall is undoubtedly well liked by his league mates. 
+Conall doesn’t value material things like The Sterling Freshburst trophy and believes that the real prize is the friends we made along the way",
        "photo": "/managers/conall.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "hou", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -147,7 +151,7 @@ export const managers = [
        "favoritePlayer": null, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
     "rookieOrVets": null, // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Your fantasy team's philosophy",
+       "philosophy": "A mix of tiki taka and gegenpressing, with a dash of long ball in. Let your man know you’re there early.",
        "tradingScale": 5, // 1 - 10
        "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
