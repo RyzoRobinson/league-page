@@ -134,11 +134,8 @@ export const managers = [
        "name": "Conall Kelly",
        "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Kildress", // (optional)
-       "bio": "The Triumph and the Tragedy, minus the triumph. 
-Conall hasn’t exactly had the best of experiences in fantasy to date. In 4 seasons he has never had a winning record, and has flirted with the tattoo forfeit ever since its inception. 
-Entering season 5 Conall hopes for a change of fortunes, but suspects the stink of losing can be a hard one to get rid of. 
-With a penchant for outlandish trade offers and complaining about misfortunes, Conall is undoubtedly well liked by his league mates. 
-Conall doesn’t value material things like The Sterling Freshburst trophy and believes that the real prize is the friends we made along the way",
+       "bio": "The Triumph and the Tragedy, minus the triumph.\nConall hasn’t exactly had the best of experiences in fantasy to date. In 4 seasons he has never had a winning record,...\nEntering season 5 Conall hopes for a change of fortunes, but suspects the stink of losing can be a hard one to get rid of.\nWith a penchant for outlandish trade offers and complaining about misfortunes, Conall is undoubtedly well liked by his league mates. 
+Conall doesn’t value material things like The Sterling Freshburst trophy and believes that the real prize is the friends we made along the way.",
        "photo": "/managers/conall.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "hou", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
